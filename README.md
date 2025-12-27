@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently pursuing M Tech in smart manufacturing at IISc Bengaluru <br>
+I am currently Pursning M Tech in smart manufacturing at IISc bengaluru<br>
 
 
 ## 🌐 Socials:
@@ -14,8 +14,6 @@ I am currently pursuing M Tech in smart manufacturing at IISc Bengaluru <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=NikhilNS26&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilNS26&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NikhilNS26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NikhilNS26&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
